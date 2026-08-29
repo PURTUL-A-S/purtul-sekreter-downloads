@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "downloadUrl": "https://github.com/PURTUL-A-S/purtul-sekreter-downloads/releases/download/v1.2.0/PurtulPdfMergeSetup-1.2.0.exe",
-  "sha256": "C9C444595725828B606337CE024F10F07D19C7CFA6A961F726CB80B18EB24740",
+  "version": "1.2.1",
+  "downloadUrl": "https://github.com/PURTUL-A-S/purtul-sekreter-downloads/releases/download/v1.2.1/PurtulPdfMergeSetup-1.2.1.exe",
+  "sha256": "0BEF3F46772EAA8D2767FC0C562C570E93722462BEBCF81811501611667824B8",
   "mandatory": false,
-  "releaseNotes": "Otomatik güncelleme desteği eklendi."
+  "releaseNotes": "Güncelleme indirme ve dosya doğrulama süreci iyileştirildi."
 }
