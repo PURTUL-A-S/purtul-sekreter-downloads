@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
-  "downloadUrl": "https://github.com/PURTUL-A-S/purtul-sekreter-downloads/releases/download/v1.2.1/PurtulPdfMergeSetup-1.2.1.exe",
-  "sha256": "0BEF3F46772EAA8D2767FC0C562C570E93722462BEBCF81811501611667824B8",
+  "version": "1.4.0",
+  "downloadUrl": "https://github.com/PURTUL-A-S/purtul-sekreter-downloads/releases/download/v1.4.0/PurtulPdfAraclariSetup-1.4.0.exe",
+  "sha256": "CD656645FC2111989E7D61CCF581B29F5FE8A437A8EAAA80BAEFFE036FB895D8",
   "mandatory": false,
-  "releaseNotes": "Güncelleme indirme ve dosya doğrulama süreci iyileştirildi."
+  "releaseNotes": "HEIC, HEIF ve TIFF dönüşüm desteği eklendi. Çok sayfalı TIFF dosyaları ayrı görseller olarak dışa aktarılabiliyor ve görsel dönüştürme araçları genişletildi."
 }
