@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
-  "downloadUrl": "https://github.com/PURTUL-A-S/purtul-sekreter-downloads/releases/download/1.5.0/PurtulPdfAraclariSetup-1.5.0.exe",
-  "sha256": "c5171fb9271c4754c7b193619259b50910af6ecf6d8023123e98de1a0dc68a04",
+  "version": "1.5.1",
+  "downloadUrl": "https://github.com/PURTUL-A-S/purtul-sekreter-downloads/releases/download/v1.5.1/PurtulPdfAraclariSetup-1.5.1.exe",
+  "sha256": "AEDD6F15AE076BCB7061D7335732A3DDF4E5142E6B2633300592F11B801B38A4",
   "mandatory": false,
   "releaseNotes": "Lisans satın alma ve aktivasyon akışı yenilendi. E-posta ile 6 haneli aktivasyon kodu, cihaz bazlı lisanslama ve sunucu üzerinden lisans doğrulama desteği eklendi."
 }
