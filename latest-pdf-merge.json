@@ -1,7 +1,7 @@
 {
-    "version":  "1.6.0",
-    "downloadUrl":  "https://github.com/PURTUL-A-S/purtul-sekreter-downloads/releases/download/1.6.0/PurtulSekreterSetup-1.6.0.exe",
-    "sha256":  "54ff8921cec5533e385ef895ba9a5f225a9a27f5b7a498a9b4e1901f2dd224ba",
+    "version":  "1.8.0",
+    "downloadUrl":  "https://github.com/PURTUL-A-S/purtul-sekreter-downloads/releases/download/1.8.0/PurtulSekreterSetup-1.8.0.exe",
+    "sha256":  "d6c941cbd66200e10fbd537093a6ad6802b25b8a5588ea27c447dfbd0e71f17b",
     "mandatory":  false,
-    "releaseNotes":  "Purtul Sekreter: PDF, OCR, Word ve Excel donusturme araclari; yerel belge isleme."
+    "releaseNotes":  "Purtul Sekreter: baslangic sayfasi, modul kartlari ve oturum icinde son acilan araclar."
 }
