@@ -1,7 +1,7 @@
 {
-    "version":  "1.8.0",
-    "downloadUrl":  "https://github.com/PURTUL-A-S/purtul-sekreter-downloads/releases/download/1.8.0/PurtulSekreterSetup-1.8.0.exe",
-    "sha256":  "d6c941cbd66200e10fbd537093a6ad6802b25b8a5588ea27c447dfbd0e71f17b",
+    "version":  "1.14.0",
+    "downloadUrl":  "https://github.com/PURTUL-A-S/purtul-sekreter-downloads/releases/download/1.14.0/PurtulSekreterSetup-1.14.0.exe",
+    "sha256":  "18b6ecd1c38bd754b3e53d390114f7838b62b9631b9fde860ad4afe9f93979d9",
     "mandatory":  false,
-    "releaseNotes":  "Purtul Sekreter: baslangic sayfasi, modul kartlari ve oturum icinde son acilan araclar."
+    "releaseNotes":  "Purtul Sekreter: SHA-256 klasor kaydi, degisen/eksik/yeni dosya karsilastirmasi ve CSV raporu."
 }
