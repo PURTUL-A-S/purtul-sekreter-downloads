@@ -1,7 +1,7 @@
 {
-    "version":  "1.14.0",
-    "downloadUrl":  "https://github.com/PURTUL-A-S/purtul-sekreter-downloads/releases/download/1.14.0/PurtulSekreterSetup-1.14.0.exe",
-    "sha256":  "18b6ecd1c38bd754b3e53d390114f7838b62b9631b9fde860ad4afe9f93979d9",
+    "version":  "1.27.0",
+    "downloadUrl":  "https://github.com/PURTUL-A-S/purtul-sekreter-downloads/releases/download/1.27.0/PurtulSekreterSetup-1.27.0.exe",
+    "sha256":  "2aa431f523ee63c11fc4afe66323831775b5eea0b7b240f744dd8fb171881953",
     "mandatory":  false,
-    "releaseNotes":  "Purtul Sekreter: SHA-256 klasor kaydi, degisen/eksik/yeni dosya karsilastirmasi ve CSV raporu."
+    "releaseNotes":  "Purtul Sekreter: taranmis PDF ve gorselden duzenlenebilir onizlemeli OCR Word DOCX donusumu."
 }
