@@ -1,7 +1,7 @@
 {
-    "version":  "1.27.0",
-    "downloadUrl":  "https://github.com/PURTUL-A-S/purtul-sekreter-downloads/releases/download/1.27.0/PurtulSekreterSetup-1.27.0.exe",
-    "sha256":  "2aa431f523ee63c11fc4afe66323831775b5eea0b7b240f744dd8fb171881953",
+    "version":  "1.30.0",
+    "downloadUrl":  "https://github.com/PURTUL-A-S/purtul-sekreter-downloads/releases/download/1.30.0/PurtulSekreterSetup-1.30.0.exe",
+    "sha256":  "ce4efbab3e024fc36a2eec81d0577cd1f244957ef64fa610cca2690a4c499e55",
     "mandatory":  false,
     "releaseNotes":  "Purtul Sekreter: taranmis PDF ve gorselden duzenlenebilir onizlemeli OCR Word DOCX donusumu."
 }
