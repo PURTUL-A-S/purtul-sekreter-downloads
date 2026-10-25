@@ -1,7 +1,7 @@
 {
-    "version":  "1.30.0",
-    "downloadUrl":  "https://github.com/PURTUL-A-S/purtul-sekreter-downloads/releases/download/v1.30.0/PurtulSekreterSetup-1.30.0.exe",
-    "sha256":  "8e2ba439f9f2f3b3534b8fa3f774761e43d5e43c191e8a727f6819421bb3879b",
+    "version":  "1.30.1",
+    "downloadUrl":  "https://github.com/PURTUL-A-S/purtul-sekreter-downloads/releases/download/v1.30.1/PurtulSekreterSetup-1.30.1.exe",
+    "sha256":  "0b66b60676b03bde236bbd28d28c3e16589fbc66d0523de1f36f76ee50a6d05e",
     "mandatory":  false,
-    "releaseNotes":  "Purtul Sekreter: taranmis PDF ve gorselden duzenlenebilir onizlemeli OCR Word DOCX donusumu."
+    "releaseNotes":  "Purtul Sekreter 1.30.1: Yerel lisans kaydı Windows veri korumasıyla saklanır. Eski kayıt ilk açılışta internet üzerinden mevcut cihaz için doğrulanır; yeniden satın alma veya aktivasyon kodu gerekmez. Çevrimdışı süre ve abonelik bitiş kontrolleri iyileştirildi. Kullanım şartları güncellendi. Güncelleme indirme bağlantısı düzeltildi."
 }
